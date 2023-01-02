@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "JA Personal Site"
+title                    : "javierazcurra.co.uk"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Javier Azcurra"
@@ -118,22 +118,29 @@ author:
   bio              : "Senior Software Engineer"
   location         : "London, UK"
   email            : "jazcurra.it@gmail.com"
+  linkedin         : "https://www.linkedin.com/in/javierazcurra/"
   links:
-    - label: "Email"
+    - label: "Argentinian / Italian"
+      icon: "fas fa-fw fa-flag"
+      url: ""
+    - label: "jazcurra.it@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jazcurra.it@gmail.com"
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      url: "https://bitbucket.org/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/azcurraJavier"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -227,6 +234,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show uncomment to enable
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
