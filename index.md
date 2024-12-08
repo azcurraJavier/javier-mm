@@ -5,23 +5,22 @@ author_profile: true
 excerpt: 'JA Personal site'
 classes: wide
 header:
+  overlay_full: false
   overlay_image: assets/images/trees.png
   overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
 ---
 
-Hi and welcome! I hope you enjoy my personal site![^1]
+Hi and welcome to my personal site![^1]
 
-I am Javier a Senior Software Engineer with more than ten years of experience.
-I started my IT journey in Argentina. Since 2019 I moved to London (UK) where I found the Financial Technologies very impressive and attractive.
+I am Javier, a Senior Software Engineer with over 8 years of experience.
+In 2019, I relocated to London, UK, where I developed a strong interest in the fascinating and dynamic world of Financial Technology.
 
-I am currently working for [Yapily](https://www.yapily.com/) as a full-time **Senior Software Engineer**.
-I would like to invite you to check my [resume](/resume/) to get more details about my professional career.
+Currently, I work as a full-time **Engineering Team Lead** at [Yapily](https://www.yapily.com/).
+I would like to invite you to review my [resume](https://drive.google.com/file/d/13EMTl_ubZ2lYAcElKREs6BSUIqUmNuuV/view) for more details about my professional journey and accomplishments.
 
-<br><br><br><br>
+Have a great day!
 
-
-
-
+<br><br>
 
 ---
 
